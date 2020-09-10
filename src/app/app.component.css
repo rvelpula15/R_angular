@@ -1,0 +1,48 @@
+#header {
+    background-color: rgb(192, 231, 119);
+    height:150px;    
+}
+#header-title{
+    display:block;
+    float: left;
+    color: white;
+}
+
+.header-nav li {
+    display: inline;
+    float: right;
+    padding-left: 10px;
+    margin-top: 0;
+    
+}
+.container{
+    max-width: 1000px;
+    margin:0 auto;
+}
+#content{
+    background-color: rgb(6, 50, 77);
+    height: 100%;
+}
+#footer{
+    width: 100%;
+    position:fixedAbsolute;
+    height:20vh;
+    margin-top:80vh;
+    background-color: tomato;
+    color: black;
+}
+#Name{
+    font-size: 50px;
+    text-align: center;
+}
+
+#link{
+    color: blanchedalmond;
+    float: right;
+}
+.text{
+    color: wheat;
+}
+.post-author{
+    
+}
